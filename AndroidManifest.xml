@@ -144,6 +144,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
 
+<<<<<<< HEAD
         <!--activity
             android:name=".omni_syed"
             android:label="Syed" >
@@ -158,6 +159,21 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             android:label="Theme" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
+        <activity
+            android:name=".idk_cl0udybtlg"
+            android:label="eldainosor's cloudy mood" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ig_fxckingmind"
+            android:label="fxckingdeathwish's mind" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
