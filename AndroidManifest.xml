@@ -161,7 +161,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
         <activity
             android:name=".idk_cl0udybtlg"
-            android:label="PH - Cloudy Mood" >
+            android:label="IG Stuff | ElDainosor.bmp cloudy mood" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -170,7 +170,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".ig_fxckingmind"
-            android:label="PH - fxckingdeathwish's mind" >
+            android:label="IG Stuff | fxckingdeathwish's mind" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -179,7 +179,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".idk_sumtim"
-            android:label="PH - Summertime" >
+            android:label="IG Stuff | ElDainosor.bmp summertime" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -188,7 +188,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".nataliasolaange"
-            android:label="PH - nataliasolaange collection" >
+            android:label="IG Stuff | nataliasolaange collection" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -197,7 +197,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_llection"
-            android:label="CL - Best of COLOURLovers.com" >
+            android:label="Collections | Best of COLOURLovers.com" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -206,7 +206,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_tinted"
-            android:label="CL - Best of COLOURLovers.com but Tinted" >
+            android:label="Collections | Best of COLOURLovers.com but Tinted" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -215,7 +215,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".test_accent"
-            android:label="TEST - Accent" >
+            android:label="zwl | TEST" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -224,7 +224,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".bootleg_style"
-            android:label="CL - Bootleggers Styled Headers" >
+            android:label="Collections | Bootleggers Styled Headers" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -233,7 +233,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_aestheticwalls_mix"
-            android:label="CL - Memesis Aesthetic - Vaporwave" >
+            android:label="Collections | Memesis Aesthetic - Vaporwave" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -242,7 +242,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".clo_aestheticwalls_sj"
-            android:label="CL - Memesis Aesthetic - Sacred Japan" >
+            android:label="Collections | Memesis Aesthetic - Sacred Japan" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -251,7 +251,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".alex_veneno"
-            android:label="CL - itsaalex's Poison Headers" >
+            android:label="Collections | itsaalex's Poison Headers" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -260,7 +260,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".purplegorilla"
-            android:label="CL - I don't believe we're been properly introduced" >
+            android:label="Collections | I don't believe we're been properly introduced" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
